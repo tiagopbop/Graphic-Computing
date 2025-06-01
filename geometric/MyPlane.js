@@ -1,4 +1,4 @@
-import {CGFobject} from "../../lib/CGF.js";
+import {CGFobject} from "./../lib/CGF.js";
 
 /**
  * MyPlane class represents a 2D plane in a 3D scene.
