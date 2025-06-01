@@ -1,4 +1,4 @@
-import {CGFobject, CGFshader} from "../../lib/CGF.js";
+import {CGFobject, CGFshader} from "./../lib/CGF.js";
 import {MyCube} from "../geometric/MyCube.js";
 import {MyWindow} from "./MyWindow.js";
 import {MyCircle} from "../geometric/MyCircle.js";
