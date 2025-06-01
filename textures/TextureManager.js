@@ -1,4 +1,4 @@
-import {CGFappearance, CGFtexture} from "../../lib/CGF.js";
+import {CGFappearance, CGFtexture} from "./../lib/CGF.js";
 
 /**
  * Manages textures and materials for a 3D scene.
