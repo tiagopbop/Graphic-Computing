@@ -1,4 +1,4 @@
-import {CGFobject, CGFshader} from "../../lib/CGF.js";
+import {CGFobject, CGFshader} from "./../lib/CGF.js";
 import {MyPyramid} from "../geometric/MyPyramid.js";
 
 export class MyFire extends CGFobject {
