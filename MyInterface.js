@@ -1,4 +1,4 @@
-import {CGFinterface, dat} from "../lib/CGF.js";
+import {CGFinterface, dat} from "./lib/CGF.js";
 
 /**
  * MyInterface class extends CGFinterface to create a graphical user interface for the application.
