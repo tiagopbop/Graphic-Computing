@@ -1,4 +1,4 @@
-import {CGFobject} from "../../lib/CGF.js";
+import {CGFobject} from "./../lib/CGF.js";
 
 /**
  * Represents a cone in a 3D scene.
