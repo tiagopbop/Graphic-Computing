@@ -1,4 +1,4 @@
-import {CGFobject} from "../../lib/CGF.js";
+import {CGFobject} from "./../lib/CGF.js";
 
 /**
  * MyCircle class represents a circle in the 3D scene.
