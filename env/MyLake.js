@@ -1,4 +1,4 @@
-import {CGFobject, CGFshader} from "../../lib/CGF.js";
+import {CGFobject, CGFshader} from "./../lib/CGF.js";
 
 export class MyLake extends CGFobject {
     /**
