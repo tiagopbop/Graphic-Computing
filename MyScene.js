@@ -1,4 +1,4 @@
-import {CGFaxis, CGFcamera, CGFscene} from "../lib/CGF.js";
+import {CGFaxis, CGFcamera, CGFscene} from "./lib/CGF.js";
 import {TextureManager} from "./textures/TextureManager.js";
 import {MyPlane} from "./MyPlane.js";
 import {MySphere} from "./geometric/MySphere.js"
